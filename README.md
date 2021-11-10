@@ -2,7 +2,7 @@
 
 <center>
   
-![Jekyll site CI](https://github.com/pravinvns789/Lifestyle-Store/workflows/Jekyll%20site%20CI/badge.svg)
+
 ![GitHub language count](https://img.shields.io/github/languages/count/pravinvns789/Lifestyle-Store)
 ![](https://img.shields.io/github/repo-size/pravinvns789/Lifestyle-Store)
 ![](https://img.shields.io/tokei/lines/github/pravinvns789/Lifestyle-Store)
@@ -20,18 +20,17 @@ This Project is Live at -----> https://pravinvns789.github.io/Lifestyle-Store/
 
 This Repository contain Fullstack mini project using Front end technologies.
 
-### Overview  <img src ="https://www.flaticon.com/svg/static/icons/svg/2328/2328966.svg" width="25px">
+### Overview 
   
-   This project is based on how an effective travel website will make us feel. It is based on a  travelling  website  with  front-end only  that  will  activate  the travelling bug with  vibrant  imagery.This  website  contains highlights  of  some  important  places  along with  high  quality photography.
+   This project is based on how an effective e-commerce website will make us feel. It is based on a  e-commerce  website  with  front-end only  that  will  activate  the marketing bug with  vibrant  imagery.This  website  contains highlights  of  some  important  offers and price  along with  high  quality photography.
   
-### Motivation  <img src ="https://www.flaticon.com/svg/static/icons/svg/1083/1083498.svg" width="25px">
+### Motivation
+ People all over the world are fond of online shopping .People often find it difficult to search for the best offerse .To address the issue,we adopt the e-commerce website which will offer best  among others.
  
- People all over the world are fond of travel and tourism.People often find it difficult to search for the best places .To address the issue,we adopt the travelling website which will offer best places among others.
- 
-### Objective <img src ="https://www.flaticon.com/svg/static/icons/svg/2620/2620445.svg" width="25px">
+### Objective
   
   
-  The main objective of the projectis to create a website using  front-end  technologies to  continuously  provide enjoyable quality excursions/trips on time and on budget.It will also develop enthusiastically satisfied customers all of the time. 
+  The main objective of the projectis to create a website using  front-end  technologies to  continuously  provide enjoyable quality products on time and on budget.It will also develop enthusiastically satisfied customers all of the time. 
   
   
 ### Project Flow
@@ -45,8 +44,8 @@ This Repository contain Fullstack mini project using Front end technologies.
 - Group Meeting on 15 sep
   
       * Motive Declaration and resource gathering
-      * Analyzing Different travelling Blogs
-      * Understanding working of a tour and travel Website.
+      * Analyzing Different e-commerce websites
+      * amazon, flipkart
 
 #### phase-2 (18 sep 2021 - 10 Oct 2021):
 
@@ -61,11 +60,10 @@ This Repository contain Fullstack mini project using Front end technologies.
 
 - Group Meeting on 10 Oct.
 
-      * Creating all the type of places.
-      * creating cities page
+      * Creating index page.
+      * creating product page
       * Styling each pages.
-      * linking videolink to each destination
-      * add overlay to each place for more details.
+
 
 #### phase 4 (22 oct 2021 - 5 nov 2021):
 
@@ -84,7 +82,7 @@ This Repository contain Fullstack mini project using Front end technologies.
  <hr>
  
  
-### Technologies  <img src ="https://www.flaticon.com/svg/static/icons/svg/3662/3662817.svg" width="25px">
+### Technologies 
   
 The technologies that we have used in making this project are :
   
@@ -107,7 +105,7 @@ The technologies that we have used in making this project are :
   <br>
   
   
-### Contributors <img src ="https://www.flaticon.com/svg/static/icons/svg/2917/2917641.svg" width="25px">
+### Contributors
   
   
   <table>
@@ -121,14 +119,14 @@ The technologies that we have used in making this project are :
    
   <br>
   
-### License    <img src ="https://www.flaticon.com/svg/static/icons/svg/3076/3076368.svg" width="20px">
+### License  
   
     * Apache-2.0 License copyright &copy; 2021 Pravin Singh
   
   <br>
   
       
-### References   <img src ="https://www.flaticon.com/svg/static/icons/svg/2806/2806879.svg" width="20px">
+### References   
   
   <table>
   <tr>
