@@ -34,9 +34,9 @@ This Repository contain Fullstack mini project using Front end technologies.
   The main objective of the projectis to create a website using  front-end  technologies to  continuously  provide enjoyable quality excursions/trips on time and on budget.It will also develop enthusiastically satisfied customers all of the time. 
   
   
-### Project Flow <img src ="https://www.flaticon.com/svg/static/icons/svg/648/648917.svg" width="25px">
+### Project Flow
   
-  ![](https://github.com/shsarv/TravelYaari/blob/master/TravelYaari%20development%20%20Flow.png)
+ 
   
   - This project was divided in to Five phases :-
   
@@ -91,11 +91,11 @@ The technologies that we have used in making this project are :
    <table>
   <tr>
     <td align="center">
-  <a href="https://en.wikipedia.org/wiki/HTML"><img src="resources/html.jpg" width="80px;" height="80px;"  alt=""/><br /><sub><b>HTML5</b></sub></a></td>
+  <a href="https://en.wikipedia.org/wiki/HTML"><img src="resources/html.jpg" width="80px;" height="80px;"  alt="HTML"/><br /><sub><b>HTML5</b></sub></a></td>
    <td align="center">
-  <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><img src="resources/css.jpg" width="80px;" height="80px;"  alt=""/><br /><sub><b>CSS3</b></sub></a></td>
+  <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"><img src="resources/css.jpg" width="80px;" height="80px;"  alt="CSS"/><br /><sub><b>CSS3</b></sub></a></td>
     <td align="center">
-  <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img src="resources/boot.jpg" width="80px;" height="80px;"  alt=""/><br /><sub><b>Bootstrap</b></sub></a></td>
+  <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img src="resources/boot.jpg" width="80px;" height="80px;"  alt="BOOTSTRAP"/><br /><sub><b>Bootstrap</b></sub></a></td>
    <td align="center">
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" width="80px;" height="80px;"  alt=""/><br /><sub><b>JAVASCRIPT</b></sub></a></td>
     <td align="center">
@@ -112,8 +112,8 @@ The technologies that we have used in making this project are :
   
   <table>
   <tr>
-    <td align="center"><a href="https://github.com/pravinvns789"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Pravin singh</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=pravinvns789" title="Documentation">📖</a><a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=pravinvns789" title="Code">💻</a></td>
-   <td align="center"><a href="https://github.com/Satish-191500728"><img src="https://avatars1.githubusercontent.com/u/61418608?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Satish jha</b></sub></a><br /><a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=Satish-191500728" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/pravinvns789"><img src="https://avatars.githubusercontent.com/u/67820579?v=4" width="100px;" alt=""/><br /><sub><b>Pravin singh</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=pravinvns789" title="Documentation">📖</a><a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=pravinvns789" title="Code">💻</a></td>
+   <td align="center"><a href="https://github.com/Satish-191500728"><img src="https://avatars.githubusercontent.com/u/67820579?v=4" width="100px;" alt=""/><br /><sub><b>Satish jha</b></sub></a><br /><a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=Satish-191500728" title="Code">💻</a></td>
   
    <tr>
     <table>
