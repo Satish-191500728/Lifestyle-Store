@@ -291,3 +291,11 @@ a{
     text-decoration: underline;
   
   }
+
+  /* contact */
+  #gray{
+    background-color: #eeeeee;
+    color:#757575;
+    border: 1px solid #bdbdbd;
+    padding: 2em;
+}
