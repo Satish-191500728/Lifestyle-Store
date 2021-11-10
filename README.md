@@ -1,4 +1,4 @@
-# [LIFESTYLE-STORE](https://pravinvns789.github.io/Lifestyle-Store/)  <img src ="https://www.flaticon.com/svg/static/icons/svg/744/744502.svg" width="50px">
+# [LIFESTYLE-STORE](https://pravinvns789.github.io/Lifestyle-Store/)  
 
 <center>
   
