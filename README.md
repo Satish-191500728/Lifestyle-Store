@@ -40,7 +40,7 @@ This Repository contain Fullstack mini project using Front end technologies.
   
   - This project was divided in to Five phases :-
   
-#### phase -1 (15 sep 2020 - 18 sep 2020): 
+#### phase -1 (15 sep 2021 - 18 sep 2021): 
 
 - Group Meeting on 15 sep
   
@@ -48,7 +48,7 @@ This Repository contain Fullstack mini project using Front end technologies.
       * Analyzing Different travelling Blogs
       * Understanding working of a tour and travel Website.
 
-#### phase-2 (18 sep 2020 - 10 Oct 2020):
+#### phase-2 (18 sep 2021 - 10 Oct 2021):
 
 - Group Meeting on 19 July.
 
@@ -57,7 +57,7 @@ This Repository contain Fullstack mini project using Front end technologies.
       * user validation and access generation (login signup)
       * designing pages for authorised and non authorised user.
 
-#### plase -3 (10 Oct 2020 - 22 oct 2020):
+#### plase -3 (10 Oct 2021 - 22 oct 2021):
 
 - Group Meeting on 10 Oct.
 
@@ -67,7 +67,7 @@ This Repository contain Fullstack mini project using Front end technologies.
       * linking videolink to each destination
       * add overlay to each place for more details.
 
-#### phase 4 (22 oct 2020 - 5 nov 2020):
+#### phase 4 (22 oct 2021 - 5 nov 2021):
 
 - Group Meeting on 21 oct.
 
@@ -76,7 +76,7 @@ This Repository contain Fullstack mini project using Front end technologies.
       * adding contact page to reach us and booking service.
       * linking each page and making final touch up to each page
 
-#### phase 5 (10 nov 2020):
+#### phase 5 (10 nov 2021):
 
       * Deployment of fully working website to github pages.
  
@@ -112,9 +112,9 @@ The technologies that we have used in making this project are :
   
   <table>
   <tr>
-    <td align="center"><a href="https://github.com/pravinvns789"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Kumar Sharma</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/shsarv/TravelYaari/commits?author=shsarv" title="Documentation">📖</a><a href="https://github.com/shsarv/TravelYaari/commits?author=shsarv" title="Code">💻</a></td>
-   <td align="center"><a href="https://github.com/satyamjha1710"><img src="https://avatars1.githubusercontent.com/u/61418608?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Satyam Kumar jha</b></sub></a><br /><a href="https://github.com/shsarv/TravelYaari/commits?author=satyamjha1710" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/sachi42"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQG284gqwDcwKw/profile-displayphoto-shrink_800_800/0?e=1613001600&v=beta&t=ciyzyUV9JqxwQfIqCH8Q1j_VyDKbfnTWz4CAp6h-1ko" width="100px;" alt=""/><br /><sub><b>Sachi Tripathi</b></sub></a><br /><a href="https://github.com/shsarv/TravelYaari/commits?author=sachi42" title="Code">💻</a></td> 
+    <td align="center"><a href="https://github.com/pravinvns789"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Pravin singh</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=pravinvns789" title="Documentation">📖</a><a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=pravinvns789" title="Code">💻</a></td>
+   <td align="center"><a href="https://github.com/Satish-191500728"><img src="https://avatars1.githubusercontent.com/u/61418608?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Satish jha</b></sub></a><br /><a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=Satish-191500728" title="Code">💻</a></td>
+  
    <tr>
     <table>
      
