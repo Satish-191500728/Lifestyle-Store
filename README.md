@@ -110,8 +110,10 @@ The technologies that we have used in making this project are :
   
   <table>
   <tr>
-    <td align="center"><a href="https://github.com/pravinvns789"><img src="https://avatars.githubusercontent.com/u/67820579?v=4" width="100px;" alt=""/><br /><sub><b>Pravin singh</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=pravinvns789" title="Documentation">📖</a><a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=pravinvns789" title="Code">💻</a></td>
-   <td align="center"><a href="https://github.com/Satish-191500728"><img src="https://avatars.githubusercontent.com/u/67820579?v=4" width="100px;" alt=""/><br /><sub><b>Satish jha</b></sub></a><br /><a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=Satish-191500728" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/pravinvns789"><img src="https://avatars.githubusercontent.com/u/67820579?v=4" width="100px;" alt=""/><br /><sub><b>Pravin Singh</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=pravinvns789" title="Documentation">📖</a><a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=pravinvns789" title="Code">💻</a></td>
+   <td align="center"><a href="https://github.com/Satish-191500728"><img src="https://avatars.githubusercontent.com/u/67820579?v=4" width="100px;" alt=""/><br /><sub><b>Satish Jha</b></sub></a><br /><a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=Satish-191500728" title="Code">💻</a></td>
+     <td align="center"><a href="https://github.com/pravinvns789"><img src="https://avatars.githubusercontent.com/u/67820579?v=4" width="100px;" alt=""/><br /><sub><b>Tushar Sharma</b></sub></a><br /><a href="#" title="Content">🖋</a> <a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=pravinvns789" title="Documentation">📖</a><a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=pravinvns789" title="Code">💻</a></td>
+   <td align="center"><a href="https://github.com/Satish-191500728"><img src="https://avatars.githubusercontent.com/u/67820579?v=4" width="100px;" alt=""/><br /><sub><b>Jatin</b></sub></a><br /><a href="https://github.com/pravinvns789/Lifestyle-Store/commits?author=Satish-191500728" title="Code">💻</a></td>
   
    <tr>
     <table>
